@@ -1,0 +1,6 @@
+{
+  "name": "BinEx",
+  "description": "Professional cryptocurrency exchange with real-time Binance market data, interactive charts, and simulated spot trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
